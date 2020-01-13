@@ -1,2 +1,6 @@
 # 2016
-Foto Angkatan 2016
+Foto Angkatan Tahun 2016
+
+Silahkan taruh di folder **kecil** dengan nama file NPM.jpg (.jpg harus huruf kecil semua). Contoh 113040087.jpg
+
+Resolusi foto 200 x 287 dengan ukuran file tidak lebih dari 50 KB. Dan foto masih tampak jelas.
